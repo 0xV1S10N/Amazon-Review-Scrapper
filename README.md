@@ -6,7 +6,7 @@
 
 **Install**
 > works on ``python 3.10``
-> ```pip install -r requirements.txt
+> ```pip install -r requirements.txt```
 
 **Run**
 > ```py main.py```
