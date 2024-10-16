@@ -9,4 +9,4 @@
 > ```pip install -r requirements.txt```
 
 **Run**
-> ```py main.py```
+> ```py reviews.py```
